@@ -1,0 +1,33 @@
+osgBullet Windows Distribution
+===================================
+Built by [Juan Sebastian Casallas](casallas@iastate.edu)
+Upstream project page: [osgBullet](http://code.google.com/p/osgbullet/)
+
+Build Information
+=================
+* Visual Studio 9 (2008)
+
+* osgBullet [2.0](http://osgbullet.googlecode.com/files/osgBullet_02_00_00.zip)
+
+* Debug and Release builds.
+
+* 32-bit
+
+###Built with 
+
+*[OpenSceneGraph 3.0.1 x86-32 Alpha Pixel Release Binaries](http://openscenegraph.alphapixel.com/sites/default/files/osgdownload/3.0.1/OpenSceneGraph-3.0.1-VS9.0.30729-x86-release-12741.7z)
+
+*Bullet 2.79 [Windows Binaries built by me](https://github.com/jscasallas/bullet-windows-distro/tree/2.79)
+
+*osgWorks 2.0 [Windows Binaries build by me](https://github.com/jscasallas/osgWorks-windows-distro)
+
+### CMake Build Options
+
+* Built without P5 support
+
+* Built with single precision (as Bullet)
+
+
+Disclaimer
+==========
+The "distributor" by no means affiliated  with osgBullet. For details about osgBullet, including licensing go to http://code.google.com/p/osgbullet/
